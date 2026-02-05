@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David Zuluaga</h1>
 <h3 align="center">A passionate about technology and web development in Colombia.</h3>
 
-- 🔭 I'm currently working on [PACO](https://sitio2.paco.com.co/)
+- 🔭 I'm currently working on [Mente](https://mente.co/)
 
 - 🌱 I’m currently learning **Node js, react, Angular, Hacking etico...**
 
